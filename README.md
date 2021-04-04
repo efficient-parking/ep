@@ -13,7 +13,7 @@
 
 <br />
 
-## DISCLAIMER
+## 📰📫 NEWSLETTER
 Follow **Efficient Parking** on our social networks:
 
 | | | |
