@@ -10,3 +10,14 @@
 - [ep-documentation](https://github.com/efficient-parking/ep-documentation)
 - [ep-main](https://github.com/efficient-parking/ep-main)
 - [ep-app-android](https://github.com/efficient-parking/ep-app-android)
+
+<br />
+
+## DISCLAIMER
+Follow **Efficient Parking** on our social networks:
+
+| | |
+| :---: | :--- |
+| [<img src="./assets/Twitter.png" width="80"/>](https://twitter.com/official_ep_vi) | [Twitter](https://twitter.com/official_ep_vi) |
+| [<img src="./assets/YouTube.png" width="80"/>](https://www.youtube.com/channel/UCYuu84o-EwwElPHbV2x51yQ) | [YouTube](https://www.youtube.com/channel/UCYuu84o-EwwElPHbV2x51yQ) |
+| [<img src="./assets/Twitch.png" width="80"/>](https://www.twitch.tv/efficientparking) | [Twitch](https://www.twitch.tv/efficientparking) |
