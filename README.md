@@ -29,6 +29,6 @@ Follow **Efficient Parking** on our social networks:
 <b>Useful link to find out more about our project:</b>
 - [ITIS Rossi](https://www.itisrossi.edu.it/)
 - [Efficient Parking](http://efficientparking.altervista.org/src/main.html)
-- [Lorenzo Zoccarato](https://www.linkedin.com/in/lorenzozoccarato/)
+- [Lorenzo Zoccarato](https://www.linkedin.com/in/lorenzo-zoccarato/)
 - Roberto Costa
 
